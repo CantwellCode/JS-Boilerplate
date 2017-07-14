@@ -51,7 +51,7 @@ _Used for linting (making sure code standards are followed)_
 
 Configured by `.eslintrc.json`
 
-### Mock, Chai, JSDom, Nock
+### Mocha, Chai, JSDom, Nock
 
 _Used for testing (test-driven-development (TDD) is good!)_
 
